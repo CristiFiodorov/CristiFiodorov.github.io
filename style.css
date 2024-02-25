@@ -1,0 +1,17 @@
+table {
+    border-spacing: 0px;
+    border-collapse:collapse;
+    min-width: 100%;
+}
+
+hr {
+    page-break-after: always;
+}
+
+td{
+  padding: 10px;
+}
+
+a:link    { text-decoration:none; }
+a:visited { text-decoration:none; }
+
